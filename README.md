@@ -1,6 +1,4 @@
-# voicetoimg #workinprogress
-
-# Audio-to-Image LDM Pipeline
+# Voice-to-Image: LDM Pipeline #workinprogress
 
 This project converts audio recordings (e.g., a person's voice) into latent vectors, which are then used as the starting point (initial latents, or $x_T$) for a Latent Diffusion Model (LDM) to generate an image.
 
@@ -17,7 +15,7 @@ The workflow is divided into two phases:
 
 ---
 
-## ⚙️ 1. Setup and Installation
+## Setup and Installation
 
 ### 1.1 Python Libraries
 Install the required Python packages.
