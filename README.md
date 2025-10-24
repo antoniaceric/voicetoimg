@@ -28,6 +28,7 @@ pip install librosa
 pip install opencv-python
 pip install sounddevice soundfile
 pip install omegaconf einops tqdm Pillow
+```
 
 ### Phase 1: Offline Batch Preparation (Do This First)
 
